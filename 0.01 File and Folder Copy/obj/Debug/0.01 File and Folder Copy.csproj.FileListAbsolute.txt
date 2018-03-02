@@ -1,0 +1,16 @@
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\0.01 File and Folder Copy.exe.config
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\0.01 File and Folder Copy.exe
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\0.01 File and Folder Copy.pdb
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\_0._01_File_and_Folder_Copy.Properties.Resources.resources
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\0.01 File and Folder Copy.csproj.GenerateResource.Cache
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\0.01 File and Folder Copy.csproj.CoreCompileInputs.cache
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\0.01 File and Folder Copy.exe
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\0.01 File and Folder Copy.pdb
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Microsoft.WindowsAPICodePack.dll
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\0.01 File and Folder Copy.csprojResolveAssemblyReference.cache
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\obj\Debug\_0._01_File_and_Folder_Copy.MAIN_WINDOW.resources
+Z:\Development\C#\0.01 File and Folder Copy\0.01 File and Folder Copy\bin\Debug\Delimon.Win32.IO.dll
